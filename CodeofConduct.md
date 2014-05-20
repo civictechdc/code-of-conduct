@@ -51,8 +51,8 @@ General Words of Wisdom
 
 See also
 -------------
-*[TechLady Hackathon Guidelines for Awesomeness]
+* [TechLady Hackathon Guidelines for Awesomeness]
 (https://techlady.hackpad.com/Guidelines-for-Awesomeness-V26mdDno80N)
-*[Code for Kansas City](https://github.com/codeforkansascity/antiharassment-policy)
-*[Geek Feminism Wiki Conference anti-harassment/Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy)
-*[Ada Initiative Conference anti-harassment policy](http://adainitiative.org/what-we-do/conference-policies/)
+* [Code for Kansas City](https://github.com/codeforkansascity/antiharassment-policy)
+* [Geek Feminism Wiki Conference anti-harassment/Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy)
+* [Ada Initiative Conference anti-harassment policy](http://adainitiative.org/what-we-do/conference-policies/)
