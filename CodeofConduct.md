@@ -29,7 +29,7 @@ If an incident occurs, please use the following contact information:
 *Code for DC organizers*
 
 * Justin Grimes (202) 670-2010 [@justgrimes](http://www.twitter.com/justgrimes) [jgrimes@codeforamerica.org](mailto:jgrimes@codeforamerica.org)
-* Leah Bannon [@leahbannon](http://www.twitter.com/leahbannon) [lbannon@codeforamerica.org](mailto:lbannon@codeforamerica.org)
+* Leah Bannon (202) 905-2594 [@leahbannon](http://www.twitter.com/leahbannon) [lbannon@codeforamerica.org](mailto:lbannon@codeforamerica.org)
 * Matt Bailey [@mattbailey0](http://www.twitter.com/mattbailey0) [mbailey@codeforamerica.org](mailto:mbailey@codeforamerica.org)
 
 *Code for America staff*
