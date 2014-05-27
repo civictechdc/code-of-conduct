@@ -1,68 +1,48 @@
-[Code for DC](http://codefordc.org/) [Code of Conduct](http://en.wikipedia.org/wiki/Code_of_conduct)
-=============
+# Code of Conduct
 
-Code for DC is an organization that is about getting people together to use technology to empower people to address local issues within their local community. The goal is to foster meaningful collaboration between volunteers of Code for DC, the public, government, companies and nonprofits. Toward that goal Code for DC strives to create a safe space for all of it's events. A place where anyone can relax and fully express themselves without fear of being made to feel uncomfortable, unwelcomed, or unsafe based on their gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. Code for DC does not tolerate harassment of any form. To achieve this Code for DC enforces an anti-harassment policy. Those violating this policy may face repercussions at the discretion of the Code for DC organizers. 
+This code may be summed up simply: Be Kind. However, since this does not always happen, we  have elaborated on this principle below.
 
-Anti-Harassment Policy 
--------------
+## What is this?
 
-Code for DC is dedicated to providing a harassment-free experience for everyone , regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. 
+Code for DC is an organization about working, as a group, to empower ourselves and others to improve our local community through technology. This code of conduct serves to ensure that everybody and anybody who wishes to participate is able to do so, and applies to all Code for DC events, from hackathons to happy hours. Code for DC is committed to provided a safe and welcoming space, without regard to age, gender, race, sexual orientation, gender identity, disability, physical appearance, religion, level of technological knowledge, or any other attribute. The captains of Code for DC ("Captains") reserve the discretion to enforce these policies as necessary to maintain an open and welcoming environment.
 
-Harassment includes any offensive verbal or written comments relating to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, religion. Harassment also includes but is not limited to deliberate intimidation, stalking, following, invasion of personal space, harassing photography or recording, sustained disruption of talks or other events, unwarranted exclusion, inappropriate physical contact, physical attack, verbal threats, unwelcome sexual attention, derisory remarks, bullying, public humiliation, persistent unjustified criticism, insults or offensive jokes, intrusive questioning about a person's domestic circumstances, and patronizing language or action.
+As the organizers of Code for DC, we believe that the below principles are essential to maintaining this environment. In addition, we believe that they are good principles for life in general.
 
-Confused about harassment?
--------------
-Sometimes harassment is not clear or rather harassment is not understood to be harassment by the person exhibiting harassing behavior. For some people it may seem like there is a gray area between warm and welcoming behavior and what is unacceptable. Good conduct requires good judgment. If you are not sure if something is appropriate behavior, play it safe and assume it isn't. You are always free to talk to one of the organizers about your question. Remember it is your responsibility to realize if your behavior would have a negative impact on others.
+## Principles
 
-What To Do If You Feel Harassed 
--------------
-If the situation is an emergency or you feel someone is in danger contact the police (911) or security immediately then notify the Code for DC organizers.
+### Do Not Harass
 
-If you are being harassed or if you notice that someone else is being harassed please inform this person that they have affected you negatively. Make it clear that you consider this behavior harassment. Do not apologize (it's not your fault) but remember to attack the behavior (not the person). Also please inform organizers of the situation so that we have documentation of the incident (e.g. people involved, time of incident, behavior or circumstances surrounding the incident). Documentation helps us to resolve the issue. Regardless of how you choose to proceed we will always respect your privacy. 
+Harassment is any unwelcome or hostile behavior towards another person for any reason. This includes, but is not limited to, intimidation, physical contact, sexual advances (verbal or physical), or other conduct that makes others uncomfortable.
 
-If you feel uncomfortable engaging this person please contact one of the Code for DC organizers ([Matt](mailto:mbailey@codeforamerica.org), [Justin](mailto:jgrimes@codeforamerica.org), & [Leah](mailto:lbannon@codeforamerica.org)) to inform us of the situation. 
+Code for DC will not tolerate such behavior.
 
-If you feel uncomfortable engaging the Code for DC organizers feel free to contact the Code for America Communities staff at [brigade-info@codeforamerica.org](mailto:brigade-info@codeforamerica.org). 
+### Respect the Opinions of Others
 
-If an incident occurs, please use the following contact information:
+Code for DC is designed as a place for people all of different skill levels and approaches to meet and work together toward common goals. As a result, we do not expect that everybody will share the same opinion. However, we do expect that disagreement is done respectfully.
 
-*Code for DC organizers*
+### Keep Your Team Open
 
-* Justin Grimes (202) 670-2010 [@justgrimes](http://www.twitter.com/justgrimes) [jgrimes@codeforamerica.org](mailto:jgrimes@codeforamerica.org)
-* Leah Bannon [@leahbannon](http://www.twitter.com/leahbannon) [lbannon@codeforamerica.org](mailto:lbannon@codeforamerica.org)
-* Matt Bailey [@mattbailey0](http://www.twitter.com/mattbailey0) [mbailey@codeforamerica.org](mailto:mbailey@codeforamerica.org)
+Except for instances where it would significantly impede productivity, there is always room on a Code for DC project for one more person. Unless doing so would be counter-productive to the goals of the project, anybody who is interested in a project is allowed to join it.
 
-*Code for America staff*
+## Procedures
 
-[brigade-info@codeforamerica.org](brigade-info@codeforamerica.org)
+### Who to Contact
 
-Repercussions 
--------------
-The person engaged in harassing behavior will be asked to stop any harassing behavior. If a person engaged in harassing behavior is considered egregious, dangerous, or if this harassing behavior continues then organizers may take additional action to resolve this situation.
+If you are unable to resolve the issue, or are uncomfortable doing so, you should contact a Captain. Captains agree to keep information shared in association with a Code of Conduct violation private, and may reveal it only with the approval of the affected person(s).
 
-These actions include but are not limited to:
-* Banning/blocking online participation 
-* Immediate removal from the premises 
-* Expulsion/banning on participating in related events
+### Outcomes
 
-Expectation
--------------
-We expect all Code for DC participants to follow these rules at all events and in all online communication channels.
+Captains agree to treat all violations impartially. In situations where this may not be possible due to personal or business relationships, Captains may elect to refer the violation report to another appropriate decision-maker with the approval of the affected person(s).
 
-General Words of Wisdom 
--------------
-"Be kind to others. Do not insult or put down other attendees. Behave professionally." - PyCon Code of Conduct, 2013
+Captains may take any of the following actions, or any other appropriate action, to resolve a conduct issue:
 
-"Treat others the way they want to be treated." - Platinum Rule (like the Golden Rule but better)
+- Individual Meeting: A meeting between the party responsible for the conduct and Captain(s).
+- Group Meeting: A meeting between the parties involved, with Captain mediation.
+- Team Realignment: Members may be asked to work on a different project. This action shall not be used as a punitive measure against the affected party.
+- Expulsion: In extreme situations, the offending party will be barred from future Code for DC events.
 
-"Be excellent to each other" - Abe Lincoln from Bill & Ted's Excellent Adventure 
+## Contributing to This Code
 
-[Wheaton's Law](http://knowyourmeme.com/memes/wheatons-law)
+This code is not intended to be a final draft. We are interested in your comments and suggestions! You can contribute to the code by opening an issue or pull request on this repo, or by contacting a Captain.
 
-See also
--------------
-* [TechLady Hackathon Guidelines for Awesomeness]
-(https://techlady.hackpad.com/Guidelines-for-Awesomeness-V26mdDno80N)
-* [Code for Kansas City](https://github.com/codeforkansascity/antiharassment-policy)
-* [Geek Feminism Wiki Conference anti-harassment/Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy)
-* [Ada Initiative Conference anti-harassment policy](http://adainitiative.org/what-we-do/conference-policies/)
+This code and other documents in this repo are dedicated to the public domain under a CC0 license. By contributing to this repo, you agree to release your contribution to the public domain.
