@@ -23,7 +23,6 @@ Code for DC is designed as a place for people all of different skill levels and 
 ### Keep Your Team Open
 
 Except for instances where it would significantly impede productivity, there is always room on a Code for DC project for one more person. Unless doing so would be counter-productive to the goals of the project, anybody who is interested in a project is allowed to join it.
->>>>>>> new draft, based on response from meeting
 
 ## Procedures
 
