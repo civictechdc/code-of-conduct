@@ -4,7 +4,7 @@ This code may be summed up simply: Be Kind. However, since this does not always 
 
 ## What is this?
 
-Code for DC is an organization about working, as a group, to empower ourselves and others to improve our local community through technology. This code of conduct serves to ensure that everybody and anybody who wishes to participate is able to do so, and applies to all Code for DC events, from hackathons to happy hours. Code for DC is committed to provided a safe and welcoming space, without regard to age, gender, race, sexual orientation, gender identity, disability, physical appearance, religion, level of technological knowledge, or any other attribute. The captains of Code for DC ("Captains") reserve the discretion to enforce these policies as necessary to maintain an open and welcoming environment.
+Code for DC is an organization about working, as a group, to empower ourselves and others to improve our local community through technology. This code of conduct serves to ensure that everybody and anybody who wishes to participate is able to do so, and applies to all Code for DC events, from hackathons to happy hours. Code for DC is committed to providing a safe and welcoming space, without regard to age, gender, race, sexual orientation, gender identity, disability, physical appearance, religion, level of technological knowledge, or any other attribute. The captains of Code for DC ("Captains") share the responsibility of  enforcing these policies as necessary to maintain an open and welcoming environment.
 
 As the organizers of Code for DC, we believe that the below principles are essential to maintaining this environment. In addition, we believe that they are good principles for life in general.
 
@@ -43,6 +43,6 @@ Captains may take any of the following actions, or any other appropriate action,
 
 ## Contributing to This Code
 
-This code is not intended to be a final draft. We are interested in your comments and suggestions! You can contribute to the code by opening an issue or pull request on this repo, or by contacting a Captain.
+This is a living document and is ultimately owned by the Code for DC community. We are interested in your comments and suggestions! You can contribute to the code by opening an issue or pull request on this repository, or by contacting a Captain.
 
-This code and other documents in this repo are dedicated to the public domain under a CC0 license. By contributing to this repo, you agree to release your contribution to the public domain.
+This code and other documents in this repository are dedicated to the public domain under a CC0 license. By contributing to this repository, you agree to release your contribution to the public domain.
