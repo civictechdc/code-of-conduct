@@ -4,7 +4,7 @@
 
 Civic Tech DC is an organization working, as a group, to empower ourselves and others to improve our local community through technology.
 
-We are committed to providing a safe and welcoming space, without regard to age, gender, race, ethnicity, nationality, sexual orientation, gender identity, gender expression, mental or physical disability, physical appearance, neuro(a)typicality, religion, level of knowledge, level of experience, parental status, marital status, socioeconomic status or background, political affiliation, or any other attribute. The captains of Civic Tech DC ("Captains") share the responsibility of enforcing these policies as necessary to maintain an open and welcoming environment.
+We are committed to providing a safe and welcoming space, without regard to age, gender, race, ethnicity, nationality, sexual orientation, gender identity, gender expression, mental or physical disability, physical appearance, neuro(a)typicality, religion, level of knowledge, level of experience, parental status, marital status, socioeconomic status or background, political affiliation, or any other attribute. The organizers of Civic Tech DC ("Organizers") share the responsibility of enforcing these policies as necessary to maintain an open and welcoming environment.
 
 As the organizers of Civic Tech DC, we believe that the principles below are essential to maintaining this environment. In addition, we believe they are good principles for life in general.
 
@@ -60,7 +60,7 @@ Please be aware that in order to grow and promote our organization, for general 
 
 ### Making a Report
 
-If you are unable to resolve the issue, or are uncomfortable doing so, you should contact a Captain, either in person or electronically. You can email us at **[team@civictechdc.org](mailto:team@civictechdc.org)**, which goes to all of the leadership team. Contact information for each Captain is listed on our About page; please note that electronic reports may not be seen immediately during an event. Captains agree to keep information shared in association with a Code of Conduct violation private, and may reveal it only with the approval of the affected person(s).
+If you are unable to resolve the issue, or are uncomfortable doing so, you should contact a Organizer, either in person or electronically. You can email us at **[team@civictechdc.org](mailto:team@civictechdc.org)**, which goes to all of the leadership team. Contact information for each Organizer is listed on our About page; please note that electronic reports may not be seen immediately during an event. Organizers agree to keep information shared in association with a Code of Conduct violation private, and may reveal it only with the approval of the affected person(s).
 
 Alternatively, you may submit issues **anonymously** using our feedback form: [https://forms.gle/xNkayfBVMJj8dt1X8](https://forms.gle/xNkayfBVMJj8dt1X8)
 
@@ -74,12 +74,12 @@ When making a report, the following information is useful, but not required:
 
 ### Outcomes
 
-Captains agree to treat all violations impartially and will strive to apply this Code of Conduct consistently. In situations where this may not be possible due to personal or business relationships, Captains shall refer the violation report to another appropriate decision-maker with the approval of the affected person(s).
+Organizers agree to treat all violations impartially and will strive to apply this Code of Conduct consistently. In situations where this may not be possible due to personal or business relationships, Organizers shall refer the violation report to another appropriate decision-maker with the approval of the affected person(s).
 
-Captains may take any of the following actions, or other appropriate actions, to resolve a conduct issue:
+Organizers may take any of the following actions, or other appropriate actions, to resolve a conduct issue:
 
-* **Individual Meeting:** A meeting between the party responsible for the conduct and Captain(s).
-* **Group Meeting:** A meeting between the parties involved, with Captain mediation.
+* **Individual Meeting:** A meeting between the party responsible for the conduct and Organizer(s).
+* **Group Meeting:** A meeting between the parties involved, with Organizer mediation.
 * **Team Realignment:** Members may be asked to work on a different project. This action shall not be used as a punitive measure against the affected party.
 * **Expulsion:** In extreme situations, the offending party will be barred from future Civic Tech DC events.
 
